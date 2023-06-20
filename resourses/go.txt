@@ -1,4 +1,0 @@
-github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
-github.com/projectdiscovery/httpx/cmd/httpx@latest
-github.com/ffuf/ffuf/v2@latest
-github.com/tomnomnom/waybackurls@latest
