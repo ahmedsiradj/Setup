@@ -7,7 +7,7 @@ def installer():
     with open('resourses/go.txt','r') as file:
         links = file.readlines()
         for link in links:
-            subprocess.run(['go','install','-v',link],shell=True)
+            subprocess.run(['go','install','-v',link])
 
     print("[+] Tools have been successfully installed")
 
